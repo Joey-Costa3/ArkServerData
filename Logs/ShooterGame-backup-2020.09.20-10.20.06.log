@@ -1,0 +1,13 @@
+﻿[2020.09.20-14.05.36:739][  0]Log file open, 09/20/20 10:05:36
+[2020.09.20-14.05.36:739][  0]ARK Version: 313.35
+[2020.09.20-14.05.36:739][  0]PID: 2738
+[2020.09.20-14.05.51:441][  0]Primal Game Data Took 14.34 seconds
+[2020.09.20-14.05.52:952][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.09.20-14.05.52:952][  0]gethostbyname failed ()
+[2020.09.20-14.06.03:522][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.09.20-14.06.03:525][  0]BattlEye successfully started.
+[2020.09.20-14.06.03:526][  0]bEnableMeshBitingProtection is True
+[2020.09.20-14.06.03:529][  0]Server: "CostaD" has successfully started!
+[2020.09.20-14.06.09:397][  0]Commandline:  Ragnarok?listen?ServerAdminPassword=43n83D8baWE9?SessionName=CostaD?Port=7777?QueryPort=27015 -server -log -crossplay
+[2020.09.20-14.06.09:397][  0]Full Startup: 33.28 seconds (BP compile: 0.00 seconds)
+[2020.09.20-14.06.09:397][  0]Number of cores 6
