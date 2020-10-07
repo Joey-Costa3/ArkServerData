@@ -1,0 +1,11 @@
+﻿[2020.10.03-14.03.35:635][  0]Log file open, 10/03/20 10:03:35
+[2020.10.03-14.03.35:635][  0]ARK Version: 313.55
+[2020.10.03-14.03.35:635][  0]PID: 1950
+[2020.10.03-14.04.13:146][  0]Primal Game Data Took 33.89 seconds
+[2020.10.03-14.04.15:233][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.10.03-14.04.15:233][  0]gethostbyname failed ()
+[2020.10.03-14.04.31:225][  0]bEnableMeshBitingProtection is True
+[2020.10.03-14.04.53:238][  0]Server: "CostaDelMars" has successfully started!
+[2020.10.03-14.05.11:509][  0]Commandline:  Ragnarok?listen?ServerPassword=costa3?ServerAdminPassword=43n83D8baWE9?SessionName=CostaDelMars?Port=7777?QueryPort=27015?MaxPlayers=5 -server -log -crossplay -NoBattlEye
+[2020.10.03-14.05.11:509][  0]Full Startup: 95.81 seconds (BP compile: 0.00 seconds)
+[2020.10.03-14.05.11:510][  0]Number of cores 6
